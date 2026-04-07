@@ -1,7 +1,11 @@
 aid: eastman-chemical
-url: https://raw.githubusercontent.com/api-evangelist/eastman-chemical/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/eastman-chemical/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.eastman-chemical.com
+description: >-
+  Driven by more than 100 years of continuous innovation, Eastman is a global specialty
+  materials company.
