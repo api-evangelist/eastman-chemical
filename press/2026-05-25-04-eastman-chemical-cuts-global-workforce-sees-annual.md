@@ -1,7 +1,9 @@
 ---
 title: Eastman Chemical cuts global workforce, sees annual ...
 url: https://www.reuters.com/business/eastman-chemical-sees-annual-profit-below-street-estimates-amid-tariff-woes-2025-11-03/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Eastman Chemical" press release artificial intelligence'
 position: 4
 source: serpapi-google
