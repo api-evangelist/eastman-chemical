@@ -1,4 +1,4 @@
-# Eastman Chemical (eastman-chemical)
+# Eastman Chemical
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,44 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Eastman Chemical Company (https://www.eastman.com/) is a global Fortune 500 specialty materials company that produces a broad range of advanced materials, chemicals, and fibers used in everyday products. Driven by more than 100 years of continuous innovation, Eastman serves customers across markets including transportation, building & construction, consumables, food & beverage, personal care, and electronics.
+Driven by more than 100 years of continuous innovation, Eastman is a global Fortune 500 specialty materials company that produces a broad range of advanced materials, chemicals, and fibers used in everyday products. Eastman operates a customer-facing Customer Center for orders, documents, and Safety Data Sheets, but no public developer portal or REST API has been documented.
 
-This repository tracks the APIs, developer tools, and machine-readable API artifacts for Eastman Chemical.
+**Areas:** Chemicals · Specialty Materials · Manufacturing · Fortune 500 · Sustainability
 
-**APIs.yml URL:** https://raw.githubusercontent.com/api-evangelist/eastman-chemical/refs/heads/main/apis.yml
+## Eastman Chemical on APIs.io
 
-## Scope
+Everything profiled for Eastman Chemical is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/eastman-chemical/](https://apis.io/providers/eastman-chemical/)** — or go straight to one of the APIs or properties below.
 
-- **Type:** Index
-- **Access:** 3rd-Party
+### Published properties
 
-## Tags
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- Chemicals
-- Specialty Materials
-- Manufacturing
-- Fortune 500
-- Sustainability
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
-No public APIs have been documented for Eastman Chemical. Eastman operates a customer-facing **Customer Center** at https://customer.eastman.com/ for placing orders, retrieving documents, and looking up Safety Data Sheets, but no public developer portal, REST API, or programmatic integration documentation has been published.
+- [Eastman Chemical Domain Security](https://apis.io/security/eastman-chemical/eastman-chemical-domain-security/)
 
-If you are aware of integration APIs, EDI documentation, or other developer resources, contributions are welcome.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.eastman.com/)
-- [Customer Portal](https://customer.eastman.com/)
-- [Products](https://www.eastman.com/en/products)
-- [Contact / Support](https://www.eastman.com/en/contact-us)
-- [Investor Relations](https://investors.eastman.com/)
-- [Sustainability](https://www.eastman.com/en/sustainability)
-- [Privacy Policy](https://www.eastman.com/en/privacy-policy)
-- [Terms of Use](https://www.eastman.com/en/terms-of-use)
-- [Eastman on LinkedIn](https://www.linkedin.com/company/eastman)
+- [Documentation](https://www.eastman.com/en/products)
+- [Support](https://www.eastman.com/en/contact-us)
+- [Terms of service](https://www.eastman.com/en/terms-of-use)
+- [Privacy policy](https://www.eastman.com/en/privacy-policy)
 
-## Maintainers
+## API Evangelist rating
 
-- **FN:** Kin Lane
-- **Email:** kin@apievangelist.com
+**Kin Score 6.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/eastman-chemical/](https://apis.io/providers/eastman-chemical/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Eastman Chemical: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/eastman-chemical/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
